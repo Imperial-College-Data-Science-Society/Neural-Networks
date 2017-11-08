@@ -31,6 +31,11 @@
 
 ## Overview
 
+In this workshop we will cover the fundamental theory and applications of **Neural Networks**.
+We will derive the Bacpropagation Learning Algorithm and implement a network using `NumPy`,
+exploiting computational graph theory.
+The Neural Network approximator will be compared to a simple Linear Model on a binary classification application
+for Computer Vision.
 
 ## Agenda
 
@@ -40,11 +45,11 @@
 
 ### Applications
 
-> Computer Vision - Binary Classification
+> Computer Vision: Binary Classification
 
 ### Codelab
 
-> Neural Network from Scratch (NumPy)
+> Neural Network from Scratch (`NumPy`)
 
 #### Setup
 
